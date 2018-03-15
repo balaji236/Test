@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48586" started-at="2018-03-05T16:52:58Z" finished-at="2018-03-05T16:53:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48586" started-at="2018-03-05T16:52:58Z" finished-at="2018-03-05T16:53:47Z">
+      <class name="Calculator.Calculator.ExampleTest3">
+        <test-method status="PASS" signature="init()[pri:0, instance:Calculator.Calculator.ExampleTest3@4501b7af]" name="init" is-config="true" duration-ms="12749" started-at="2018-03-05T22:22:58Z" finished-at="2018-03-05T22:23:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Calculator.Calculator.ExampleTest3@4501b7af]" name="f" duration-ms="8955" started-at="2018-03-05T22:23:11Z" data-provider="loginData" finished-at="2018-03-05T22:23:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[100000.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[15.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Months]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[7027.73]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Calculator.Calculator.ExampleTest3@4501b7af]" name="f" duration-ms="9041" started-at="2018-03-05T22:23:20Z" data-provider="loginData" finished-at="2018-03-05T22:23:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[200000.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[20.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Years]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1672.88]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Calculator.Calculator.ExampleTest3@4501b7af]" name="f" duration-ms="9276" started-at="2018-03-05T22:23:29Z" data-provider="loginData" finished-at="2018-03-05T22:23:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[300000.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[15.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Months]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[21083.2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Calculator.Calculator.ExampleTest3@4501b7af]" name="f" duration-ms="7668" started-at="2018-03-05T22:23:38Z" data-provider="loginData" finished-at="2018-03-05T22:23:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[400000.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[20.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Years]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[3345.76]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="after()[pri:0, instance:Calculator.Calculator.ExampleTest3@4501b7af]" name="after" is-config="true" duration-ms="591" started-at="2018-03-05T22:23:46Z" finished-at="2018-03-05T22:23:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Calculator.Calculator.ExampleTest3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
